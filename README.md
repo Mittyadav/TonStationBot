@@ -32,10 +32,10 @@
 
 ## Installation
 
-You can download [**Repository**](https://github.com/FreddyWhest/TonStationBot) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/Mittyadav/TonStationBot) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
-~ >>> git clone https://github.com/FreddyWhest/TonStationBot.git
+~ >>> git clone https://github.com/Mittyadav/TonStationBot.git
 ~ >>> cd TonStationBot
 
 #Linux and MocOS
