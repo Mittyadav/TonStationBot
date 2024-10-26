@@ -1,6 +1,6 @@
 const banner = `
 
-© Freddy Bots
+© Dark life Bots
 
 Starting bot.......
 `;
