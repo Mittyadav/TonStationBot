@@ -27,7 +27,7 @@ class Luncher {
  ╔╝╚╗ ║╚╝║║║║║║╚═╝║ ║╚╗║╚╝╚╗ ║╚╗║║║╚╝║║║║║║╚═╝║║╚╝║ ║╚╗
  ╚══╝ ╚══╝╚╝╚╝╚═══╝ ╚═╝╚═══╝ ╚═╝╚╝╚══╝╚╝╚╝╚═══╝╚══╝ ╚═╝
 
-© Freddy Bots   
+© dark life Bots   
 
 `;
   }
@@ -43,11 +43,11 @@ class Luncher {
     logger.paragraph(
       `<ye><u><b>WARNING</b></u></ye> <br />
 <b><bl>en:</bl></b> NOT FOR SALE
-<b><bl>ru:</bl></b> НЕ ДЛЯ ПРОДАЖИ
-<b><bl>es:</bl></b> NO VENTA
-<b><bl>fr:</bl></b> PAS À VENDRE
-<b><bl>it:</bl></b> NON PER VENDITA
-<b><bl>gh:</bl></b> YƐN TƆN
+<b><bl>ru:</bl></b> Not for nothing
+<b><bl>es:</bl></b> use On your risk
+<b><bl>fr:</bl></b> Pass to Vendre
+<b><bl>it:</bl></b> NOT FOR VENDITA
+<b><bl>gh:</bl></b> YƐN TƆN 
 
 <b>For updates and more bots join us:</b> 
 <la>https://t.me/freddy_bots</la>
